@@ -1,7 +1,5 @@
 # fitness-customer-retention-analysis
 
-# Fitness Customer Retention Analysis
-
 ## Project Overview
 
 This project analyzes customer retention and churn patterns in a fictional fitness business using SQL, Google BigQuery, and Tableau Public.
@@ -36,24 +34,22 @@ Explore the interactive dashboard:
 
 ## Project Structure
 
+
+## Project Structure
+
 - `01_ASK.md` — Business problem and project questions
 - `02_PREPARE.md` — Dataset and data preparation
 - `03_PROCESS.md` — Data processing
 - `04_ANALYZE.md` — SQL analysis and findings
 - `04_ANALYZE.sql` — SQL queries
 - `05_SHARE.md` — Dashboard and communication of results
+- `06_ACT.md` — Business recommendations and action plan
 - `fitness_customer_retention_500.csv` — Dataset
-- - `06_ACT.md` — Business recommendations and action plan
+
 
 ## Dataset
 
 The project uses a fictional dataset containing 500 fitness customers.
-
-## Interactive Dashboard
-
-Explore the customer retention analysis through the interactive Tableau Public dashboard.
-
-[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/kamile.valentim/viz/FitnessCustomerRetentionAnalysis/FitnessCustomerRetentionDashboard#1)
 
 ## Conclusion
 
