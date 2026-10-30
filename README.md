@@ -43,10 +43,17 @@ Explore the interactive dashboard:
 - `04_ANALYZE.sql` — SQL queries
 - `05_SHARE.md` — Dashboard and communication of results
 - `fitness_customer_retention_500.csv` — Dataset
+- - `06_ACT.md` — Business recommendations and action plan
 
 ## Dataset
 
 The project uses a fictional dataset containing 500 fitness customers.
+
+## Interactive Dashboard
+
+Explore the customer retention analysis through the interactive Tableau Public dashboard.
+
+[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/kamile.valentim/viz/FitnessCustomerRetentionAnalysis/FitnessCustomerRetentionDashboard#1)
 
 ## Conclusion
 
